@@ -48,4 +48,4 @@ for (const key in biciclette) {
     lessWeight = bici;
   }
   document.getElementById('output').innerHTML = `la bicicletta ${lessWeight.nome} è la più leggera con un peso di ${lessWeight.peso}`
-}
+} 
